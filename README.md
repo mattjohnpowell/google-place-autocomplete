@@ -1,3 +1,5 @@
+<p> This is a fork of Gapur's code but added the ability to populate the address into address fields so that it can be submit in unified format</p>
+
 <p align="center">
   <img width="700"src="https://github.com/Gapur/google-place-autocomplete/blob/master/public/example.gif">
 </p>
